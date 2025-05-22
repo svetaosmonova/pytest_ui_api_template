@@ -41,4 +41,4 @@
 - pip install -r requirements.txt
 
 Результат проекта
-Результат выполнения проектов доступен по ссылке: 
+Результат выполнения проектов доступен по ссылке: https://github.com/svetaosmonova/pytest_ui_api_template 
